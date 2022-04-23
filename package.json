@@ -1,0 +1,20 @@
+{
+  "name": "pristyncare",
+  "version": "1.0.0",
+  "description": "This is all about health Care",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Sneha Pal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.5.0",
+    "nodemon": "^2.0.15"
+  }
+}
